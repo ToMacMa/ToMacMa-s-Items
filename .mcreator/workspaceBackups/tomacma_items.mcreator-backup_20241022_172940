@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "CreativeTab1",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creative_tab_1",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.tomacma_items.creative_tab_1": "Creative Tab 1"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tomacma_items",
+    "modName": "ToMacMa\u0027s items",
+    "version": "0.0.1",
+    "author": "ToMacMa",
+    "websiteURL": "None",
+    "license": "MIT",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "jei"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Used MCreator",
+    "modElementsPackage": "net.tomacma.items"
+  },
+  "mcreatorVersion": 202400232117
+}

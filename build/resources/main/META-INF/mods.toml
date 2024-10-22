@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="tomacma_items"
+version="0.0.1"
+displayName="ToMacMa's items"
+displayURL="https://mcreator.net"
+credits="Used MCreator"
+authors="ToMacMa"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.tomacma_items]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.tomacma_items]]
+    modId="jei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
